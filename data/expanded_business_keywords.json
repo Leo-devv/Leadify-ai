@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": ["Find", "property", "management", "companies", "in", "London"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Top", "estate", "management", "firms", "near", "Manchester"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Reliable", "letting", "agents", "in", "Birmingham", "area"],
+        "labels": ["O", "B-KEY", "I-KEY", "O", "B-LOC", "O"]
+    },
+    {
+        "sentence": ["Professional", "property", "maintenance", "services", "Glasgow"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Experienced", "real", "estate", "services", "providers", "in", "Liverpool"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Leading", "property", "consultancy", "firms", "Newcastle", "upon", "Tyne"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC", "I-LOC", "I-LOC"]
+    },
+    {
+        "sentence": ["Efficient", "facilities", "management", "companies", "Sheffield"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Reputable", "building", "management", "services", "in", "Bristol"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Best", "rental", "property", "management", "Leeds"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Top-rated", "commercial", "property", "management", "Edinburgh"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Residential", "property", "management", "experts", "in", "Cardiff"],
+        "labels": ["B-KEY", "I-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Professional", "leasing", "services", "Belfast", "area"],
+        "labels": ["O", "B-KEY", "I-KEY", "B-LOC", "O"]
+    },
+    {
+        "sentence": ["Experienced", "property", "portfolio", "management", "Nottingham"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Trusted", "asset", "management", "companies", "in", "Leicester"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Leading", "property", "investment", "services", "Coventry"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Expert", "property", "valuation", "services", "in", "Bradford"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Reliable", "property", "development", "firms", "Stoke-on-Trent"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Professional", "property", "refurbishment", "services", "Wolverhampton"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    },
+    {
+        "sentence": ["Top", "property", "renovation", "companies", "in", "Derby"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Effective", "property", "marketing", "agencies", "Swansea"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "B-LOC"]
+    }
+]
+

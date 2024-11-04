@@ -1,0 +1,22 @@
+[
+    {
+        "sentence": ["Find", "property", "management", "companies", "in", "London"],
+        "labels": ["O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Software", "companies", "in", "Germany"],
+        "labels": ["B-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["Looking", "for", "real", "estate", "services", "in", "New", "York"],
+        "labels": ["O", "O", "B-KEY", "I-KEY", "I-KEY", "O", "B-LOC", "I-LOC"]
+    },
+    {
+        "sentence": ["Find", "marketing", "agencies", "in", "California"],
+        "labels": ["O", "B-KEY", "I-KEY", "O", "B-LOC"]
+    },
+    {
+        "sentence": ["IT", "consulting", "firms", "in", "France"],
+        "labels": ["B-KEY", "I-KEY", "I-KEY", "O", "B-LOC"]
+    }
+]
